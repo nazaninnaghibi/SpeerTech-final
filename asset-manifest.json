@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SpeerTech-final/static/css/main.6e742cf0.chunk.css",
+    "main.js": "/SpeerTech-final/static/js/main.58fc293b.chunk.js",
+    "main.js.map": "/SpeerTech-final/static/js/main.58fc293b.chunk.js.map",
+    "runtime-main.js": "/SpeerTech-final/static/js/runtime-main.26586ac3.js",
+    "runtime-main.js.map": "/SpeerTech-final/static/js/runtime-main.26586ac3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/SpeerTech-final/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c6dd1976.chunk.js": "/SpeerTech-final/static/js/2.c6dd1976.chunk.js",
+    "static/js/2.c6dd1976.chunk.js.map": "/SpeerTech-final/static/js/2.c6dd1976.chunk.js.map",
+    "index.html": "/SpeerTech-final/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/SpeerTech-final/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6e742cf0.chunk.css.map": "/SpeerTech-final/static/css/main.6e742cf0.chunk.css.map",
+    "static/js/2.c6dd1976.chunk.js.LICENSE.txt": "/SpeerTech-final/static/js/2.c6dd1976.chunk.js.LICENSE.txt",
+    "static/media/bill.jpg": "/SpeerTech-final/static/media/bill.92ddcfe2.jpg",
+    "static/media/concert.43690345.jpg": "/SpeerTech-final/static/media/concert.43690345.jpg",
+    "static/media/perfect.18f44aec.jpg": "/SpeerTech-final/static/media/perfect.18f44aec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26586ac3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c6dd1976.chunk.js",
+    "static/css/main.6e742cf0.chunk.css",
+    "static/js/main.58fc293b.chunk.js"
+  ]
+}
